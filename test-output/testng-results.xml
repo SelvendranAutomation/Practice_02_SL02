@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Internet Herokuapp Test Automation Suite" duration-ms="52977" started-at="2023-10-12T17:18:53Z" finished-at="2023-10-12T17:19:46Z">
+    <groups>
+    </groups>
+    <test name="Internet Herokuapp Test Cases" duration-ms="52977" started-at="2023-10-12T17:18:53Z" finished-at="2023-10-12T17:19:46Z">
+      <class name="com.qa.internetherokuapp.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.internetherokuapp.tests.HomePageTest@39c0f4a]" name="setUp" is-config="true" duration-ms="43048" started-at="2023-10-12T17:18:53Z" finished-at="2023-10-12T17:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyJSAlert()[pri:0, instance:com.qa.internetherokuapp.tests.HomePageTest@39c0f4a]" name="verifyJSAlert" duration-ms="2934" started-at="2023-10-12T17:19:36Z" finished-at="2023-10-12T17:19:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJSAlert -->
+        <test-method status="PASS" signature="verifyJSConfirm()[pri:1, instance:com.qa.internetherokuapp.tests.HomePageTest@39c0f4a]" name="verifyJSConfirm" duration-ms="1092" started-at="2023-10-12T17:19:39Z" finished-at="2023-10-12T17:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJSConfirm -->
+        <test-method status="PASS" signature="verifyJSPrompt()[pri:2, instance:com.qa.internetherokuapp.tests.HomePageTest@39c0f4a]" name="verifyJSPrompt" duration-ms="1944" started-at="2023-10-12T17:19:40Z" finished-at="2023-10-12T17:19:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJSPrompt -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.internetherokuapp.tests.HomePageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="3513" started-at="2023-10-12T17:19:42Z" finished-at="2023-10-12T17:19:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.internetherokuapp.tests.HomePageTest -->
+    </test> <!-- Internet Herokuapp Test Cases -->
+  </suite> <!-- Internet Herokuapp Test Automation Suite -->
+</testng-results>
